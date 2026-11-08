@@ -14,7 +14,7 @@ header {
 }
 
 h1 {
-    color: #111111; /* Nel file è nero, ma nell'HTML è stato ridefinito in azzurro con style="..." */
+    color: #111111; 
 }
 
 h2 {
